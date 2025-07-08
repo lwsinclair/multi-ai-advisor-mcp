@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yuchenssr-multi-ai-advisor-mcp-badge.png)](https://mseep.ai/app/yuchenssr-multi-ai-advisor-mcp)
+
 # Multi-Model Advisor
 ## (锵锵四人行)
 
